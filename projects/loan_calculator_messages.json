@@ -1,0 +1,15 @@
+{
+    "en": {
+        "welcome": "Welcome to loan calculator!",
+        "loan_amount": "Please enter the amount of the loan:",
+        "invalid_loan_amount": "Invalid input. Please enter the amount of the loan:",
+        "apr": "Please enter the annual percentage rate: e.g. 5 for 5%",
+        "invalid_apr": "Invalid input. Please enter the apr: e.g. 5 for 5%",
+        "loan_years": "Please enter the loan duration in years as a numeric value:",
+        "invalid_loan_years": "Invalid input. Please enter the loan duration in years as a numeric value:",
+        "monthly_payment": "Your monthly payment will be: $",
+        "new_calculation": "Would you like to perform another calculation? (y/n)",
+        "invalid_answer": "Please make a valid selection: (y/n)",
+        "thank_you": "Thank you for using loan calculator. Goodbye!"
+    }
+}

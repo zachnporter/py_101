@@ -1,0 +1,41 @@
+{
+    "en": {
+        "welcome": "Welcome to Calculator!",
+        "invalid_number": "Please enter a valid number:",
+        "new_calculation": "Would you like to perform another calculation? y/n",
+        "invalid_answer": "Please make a valid selection: y/n",
+        "first_number": "Please enter the first number:",
+        "second_number": "Please enter the second number:",
+        "operation": "What operation would you like to perform? 1) Add 2) Subtract 3) Multiply 4) Divide",
+        "invalid_operation": "You must select 1) Add 2) Subtract 3) Multiply 4) Divide",
+        "division_by_zero": "Error: Cannot divide by zero.",
+        "result": "The result is: ",
+        "thank_you": "Thank you for using calculator!"
+    },
+    "es": {
+        "welcome": "¡Bienvenido a la Calculadora!",
+        "invalid_number": "Por favor, introduce un número válido:",
+        "new_calculation": "¿Te gustaría realizar otro cálculo? s/n",
+        "invalid_answer": "Por favor, haz una selección válida: s/n",
+        "first_number": "Por favor, introduce el primer número:",
+        "second_number": "Por favor, introduce el segundo número:",
+        "operation": "¿Qué operación te gustaría realizar? 1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+        "invalid_operation": "Debes seleccionar 1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+        "division_by_zero": "Error: No se puede dividir por cero.",
+        "result": "El resultado es: ",
+        "thank_you": "¡Gracias por usar la calculadora!"
+    },
+    "fr": {
+        "welcome": "Bienvenue dans la Calculatrice!",
+        "invalid_number": "Veuillez entrer un nombre valide :",
+        "new_calculation": "Voulez-vous effectuer un autre calcul ? o/n",
+        "invalid_answer": "Veuillez faire une sélection valide : o/n",
+        "first_number": "Veuillez entrer le premier nombre :",
+        "second_number": "Veuillez entrer le deuxième nombre :",
+        "operation": "Quelle opération souhaitez-vous effectuer ? 1) Additionner 2) Soustraire 3) Multiplier 4) Diviser",
+        "invalid_operation": "Vous devez sélectionner 1) Additionner 2) Soustraire 3) Multiplier 4) Diviser",
+        "division_by_zero": "Erreur : Impossible de diviser par zéro.",
+        "result": "Le résultat est : ",
+        "thank_you": "Merci d'utiliser la calculatrice!"
+    }
+}
