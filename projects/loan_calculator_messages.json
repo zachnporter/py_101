@@ -11,5 +11,31 @@
         "new_calculation": "Would you like to perform another calculation? (y/n)",
         "invalid_answer": "Please make a valid selection: (y/n)",
         "thank_you": "Thank you for using loan calculator. Goodbye!"
+    },
+    "es": {
+        "welcome": "¡Bienvenido al calculador de préstamos!",
+        "loan_amount": "Por favor, ingrese la cantidad del préstamo:",
+        "invalid_loan_amount": "Entrada no válida. Por favor, ingrese la cantidad del préstamo:",
+        "apr": "Por favor, ingrese la tasa de porcentaje anual: por ejemplo, 5 para 5%",
+        "invalid_apr": "Entrada no válida. Por favor, ingrese la TPA: por ejemplo, 5 para 5%",
+        "loan_years": "Por favor, ingrese la duración del préstamo en años como un valor numérico:",
+        "invalid_loan_years": "Entrada no válida. Por favor, ingrese la duración del préstamo en años como un valor numérico:",
+        "monthly_payment": "Su pago mensual será: $",
+        "new_calculation": "¿Le gustaría realizar otro cálculo? (s/n)",
+        "invalid_answer": "Por favor, haga una selección válida: (s/n)",
+        "thank_you": "¡Gracias por usar el calculador de préstamos. ¡Adiós!"
+    },
+    "fr": {
+        "welcome": "Bienvenue dans le calculateur de prêt!",
+        "loan_amount": "Veuillez entrer le montant du prêt:",
+        "invalid_loan_amount": "Entrée invalide. Veuillez entrer le montant du prêt:",
+        "apr": "Veuillez entrer le taux annuel en pourcentage: par exemple, 5 pour 5%",
+        "invalid_apr": "Entrée invalide. Veuillez entrer le TAEG: par exemple, 5 pour 5%",
+        "loan_years": "Veuillez entrer la durée du prêt en années sous forme de valeur numérique:",
+        "invalid_loan_years": "Entrée invalide. Veuillez entrer la durée du prêt en années sous forme de valeur numérique:",
+        "monthly_payment": "Votre paiement mensuel sera: $",
+        "new_calculation": "Voulez-vous effectuer un autre calcul? (o/n)",
+        "invalid_answer": "Veuillez faire une sélection valide: (o/n)",
+        "thank_you": "Merci d'utiliser le calculateur de prêt. Au revoir!"
     }
 }
